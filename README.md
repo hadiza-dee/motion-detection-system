@@ -15,6 +15,7 @@ Customizable Sensitivity: Configure the sensitivity of motion detection to contr
 
 Lightweight and Efficient: Designed to run efficiently on most systems using Python and OpenCV.
 
+
 Project Structure:
 
 motion_detection_system.py: The main Python script that handles real-time motion detection and screenshot capturing.
@@ -22,6 +23,7 @@ motion_detection_system.py: The main Python script that handles real-time motion
 screenshots/: This folder is created automatically when you run the python file. It is a directory where the motion detection system saves captured screenshots of detected motion.
 
 README.md: This file, providing an overview and instructions for using the system.
+
 
 
 Prerequisites: Ensure that Python 3.x and OpenCV are installed on your system.
